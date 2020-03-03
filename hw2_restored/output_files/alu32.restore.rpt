@@ -1,0 +1,87 @@
+Restore Archived Project report for alu32
+Tue Mar 03 17:28:29 2020
+Quartus II 64-Bit Version 13.1.0 Build 162 10/23/2013 SJ Web Edition
+
+
+---------------------
+; Table of Contents ;
+---------------------
+  1. Legal Notice
+  2. Restore Archived Project Summary
+  3. Restore Archived Project Messages
+  4. Files Restored
+  5. Files Not Restored
+
+
+
+----------------
+; Legal Notice ;
+----------------
+Copyright (C) 1991-2013 Altera Corporation
+Your use of Altera Corporation's design tools, logic functions 
+and other software and tools, and its AMPP partner logic 
+functions, and any output files from any of the foregoing 
+(including device programming or simulation files), and any 
+associated documentation or information are expressly subject 
+to the terms and conditions of the Altera Program License 
+Subscription Agreement, Altera MegaCore Function License 
+Agreement, or other applicable license agreement, including, 
+without limitation, that your use is for the sole purpose of 
+programming logic devices manufactured by Altera and sold by 
+Altera or its authorized distributors.  Please refer to the 
+applicable agreement for further details.
+
+
+
++-------------------------------------------------------------------------+
+; Restore Archived Project Summary                                        ;
++---------------------------------+---------------------------------------+
+; Restore Archived Project Status ; Successful - Tue Mar 03 17:28:29 2020 ;
+; Revision Name                   ; alu32                                 ;
+; Top-level Entity Name           ; alu_32bit                             ;
+; Family                          ; Cyclone III                           ;
++---------------------------------+---------------------------------------+
+
+
++-----------------------------------+
+; Restore Archived Project Messages ;
++-----------------------------------+
+Info: Successfully restored 'C:/Users/DCD/Desktop/hw2.qar' into the 'C:/Users/DCD/Desktop/hw2_restored/' directory
+Info: Generated report 'alu32.restore.rpt'
+Info (23030): Evaluation of Tcl script c:/altera/13.1/quartus/common/tcl/apps/qpm/qar.tcl was successful
+Info: Quartus II 64-Bit Shell was successful. 0 errors, 0 warnings
+    Info: Peak virtual memory: 4443 megabytes
+    Info: Processing ended: Tue Mar 03 17:28:29 2020
+    Info: Elapsed time: 00:00:01
+    Info: Total CPU time (on all processors): 00:00:01
+
+
++--------------------------------------------------+
+; Files Restored                                   ;
++--------------------------------------------------+
+; File Name                                        ;
++--------------------------------------------------+
+; alu32.qpf                                        ;
+; alu32.qsf                                        ;
+; alu_32bit.v                                      ;
+; alu_32bit_testbench.v                            ;
+; db/alu32.db_info                                 ;
+; incremental_db/compiled_partitions/alu32.db_info ;
+; module_1bit_alu.v                                ;
+; module_1bit_alu_testbench.v                      ;
+; module_1bit_msb_alu.v                            ;
+; module_mux_4X1.v                                 ;
+; module_mux_4x1_testbench.v                       ;
+; module_xor.v                                     ;
+; module_xor_testbench.v                           ;
+; quartus/bin64/assignment_defaults.qdf            ;
++--------------------------------------------------+
+
+
++--------------------+
+; Files Not Restored ;
++--------------------+
+; File Name          ;
++--------------------+
+
+
